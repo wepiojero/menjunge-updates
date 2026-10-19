@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.5/menjunge-v5.apk",
-  "sha256": "5d8725c3338716f66f6174446f75ef1ae5dc3ebd55985f83c0bf09f197116a60",
-  "notes": "Hola Mamuna! Meti el primer update! jeje\nRadio: la pantalla ya no se apaga ni aparece el protector mientras suena.\nLos favoritos se abren directo donde ya los viste, sin pasar por \"Dónde verlo\".\nFútbol: abre la app directo y, si no la tenés, te ofrece descargarla.\nLas películas y series ahora abren su ficha; solo los favoritos se abren directo.\nSi el título está en HBO o Prime, aparece “Ver película/serie” con link directo a la app.\nFicha rediseñada: fondo de la película, botones más chicos y todas las plataformas visibles sin bajar."
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.6/menjunge-v5.apk",
+  "sha256": "d3bc3ba1c0e229ce66bac2306c659a175444a29aa7de3ff579553d7c57c1ff67",
+  "notes": "Hola Mamuna! Metí el primer update! jeje\nRadio: la pantalla ya no se apaga ni aparece el protector mientras suena.\nLos favoritos se abren directo donde ya los viste, sin pasar por \"Dónde verlo\".\nFútbol: abre la app directo y, si no la tenés, te ofrece descargarla.\nLas películas y series ahora abren su ficha; solo los favoritos se abren directo.\nSi el título está en HBO o Prime, aparece “Ver película/serie” con link directo a la app.\nFicha rediseñada: fondo de la película, botones más chicos y todas las plataformas visibles sin bajar. con link directo a la app.\nFicha rediseñada: fondo de la película, botones más chicos y todas las plataformas visibles sin bajar."
 }
