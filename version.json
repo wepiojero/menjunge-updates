@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
   "versionName": "1.4",
-  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.4/menjunge-v5.apk",
+  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.4/app-debug.apk",
   "sha256": "f4cdb32a8ea9b21abdb9c7f3028d6569238e583182292ba75d17a262d6da7999",
   "notes": "Hola Mamuna! meti unos cambios:\nRadio: la pantalla ya no se apaga ni aparece el protector de Google mientras suena.\n\"Dónde verlo\" ahora es una grilla con botones más chicos y el resultado al lado de cada plataforma.\nLas películas y series de HBO o Prime se abren directo en la app (si está en las dos, elegís).\nLos favoritos se abren directo donde ya los viste, sin pasar por \"Dónde verlo\".\nFútbol: abre la app directo y, si no la tenés, te ofrece descargarla.\nNueva sección Configuración con temas, tamaños, orden del menú y del inicio.\nPodés actualizar la lista de canales desde Configuración.\nAl salir de TizenTube y otras apps se vuelve a Menjunge."
 }
