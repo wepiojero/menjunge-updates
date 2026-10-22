@@ -1,8 +1,7 @@
-
 {
-  "versionCode": 6,
+  "versionCode": 7,
   "versionName": "1.8",
-  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.8/menjunge-v6.apk",
-  "sha256": "4e490b83b58028f6b318d03da7dc56aaba34bb8b5f72dbb9451f35dc1f85ccba",
+  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.8/menjunge-v7.apk",
+  "sha256": "0bc5571fbc09a5977cf44ed61f789f399ca96564d24a12d385c9d68fce996aa3",
   "notes": "Hola mamuna! buenas noches (o buen dia! jaja), bueno, le mejore mucho la estetica (me encanta jaja) y ademas corregi y mejore las nuevas secciones de pelis y series, tambien en configuracion podes ahi elegir que años queres que te muestre y en las mismas ventanas de pelis o series elegir que va, igual que el orden de las cosas, tambien bueno, meti lo de «pasar al siguiente capitulo» pero como es a traves de una pagina te lleva directamente a la otra, creo. No lo testee bien en el tele. bueno, te dejo aca las notas de todos los cambios!\n\nNovedades de esta versión\n\n🎬 Películas y Series: nuevas secciones «Clásicos modernos», «Estrenos del año» y «Cine» (solo películas, solo en Películas).\n🧟 Nueva categoría Terror.\n🔧 Mejores clasificadas: «Mejores puntuadas» desde 1980 y Comedia desde 1985. Se corrigieron las categorías de Comedia y Documentales.\n↕️ Orden y secciones: ahora podés ordenar y ocultar secciones y categorías.\n📐 Tamaños: banners y carteles más chicos. Último visto, Favoritos y Emisores van en tamaño reducido. Hay un ajuste de tamaño en Configuración.\n⚙️ Configuración: elegí los años de Clásicos y los países de Destacados.\n🖼️ Wallpaper propio para Radio, Películas y Series.\n⏭️ Siguiente capítulo en modo «Tomar control»: cartel o paso automático al terminar el capítulo.\n↩️ «Dónde verlo»: al volver atrás ya no te lleva al buscador.\n🔄 Actualizaciones: la app las busca cada vez que se abre."
 }
