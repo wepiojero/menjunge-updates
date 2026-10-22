@@ -1,7 +1,7 @@
 {
   "versionCode": 6,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.7/menjunge-v6.apk",
-  "sha256": "6c265612c0f2e09411548686eb3d6d9054569cdd7e5a8d825ad779e3a01ec2d6",
-  "notes": "Hola mamuna! Hermoso miercoles para vos! vamos a ver si mejoramos un poco sololatino. a mi me funciono bien elegir el servidor 4 en solo latino, porque los otros no cargan, pero bueno, funciona! jeje. cosas que toque: Se acabaron las ventanas y carteles de publicidad en SoloLatino: se bloquean solos, y podés bloquear más desde el menú (OK largo > \"Bloquear publicidad\").\nNueva pantalla Configuración > Publicidad y bloqueos para ver, bloquear o dejar pasar.\nEn \"Tomar control\" ahora aparecen los controles en pantalla (play, tiempo, volumen) y se puede mostrar el puntero.\nPelículas y Series: panel de categorías a la izquierda (Acción, Drama, Comedia, Documentales, Animación, Infantiles), íconos más chicos y nueva fila \"Más populares\".\nAl volver de ver algo desde Películas o Series, volvés a esa pantalla.\nLas búsquedas en Cinejoy van directo a la película.\nMUBI, Pluto y Mercado Play ahora muestran si el título está y si es gratis o pago.\n\"Seguir viendo\" ahora muestra la imagen de lo que estás mirando en las páginas.\nHoy se vienen otras cosas esteticas y pulir un poco mas las nuevas secciones. Te adoro!"
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.8/menjunge-v6.apk",
+  "sha256": "4e490b83b58028f6b318d03da7dc56aaba34bb8b5f72dbb9451f35dc1f85ccba",
+  "notes": "Mejoras y correcciones."
 }
