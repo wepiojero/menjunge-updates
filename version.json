@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.9/menjunge-v8.apk",
-  "sha256": "f6580c5f7d65d7e2bbd0a2a1c3d45b71a9c9c382cffaf09cc567b70432acb703",
-  "notes": "Hola Mamuna Cabalunguera! Bueno, me inspire en el viejo caba y le agregue una rockola, tiene los discos del usb de rock que tanto usaste (igual despues voy a ir agregando nueva musica) y ademas te deja acceder directo a algunas listas de youtube mias, como musica bonita, pero tambien uno puede agregar propias desde la apk y yo desde aca, asi que no se, si mañana uno hace una lista de que se yo, folclore, la agregamos y listo! el unico drama que puede haber es que los discos que subi a drive a veces no arranquen, estoy explorando si es una limitacion de drive o fue algo casual. asi que bueno, por ahora esta en modo prueba digamos!, lo que si deberia andar siempre son las lsitas de youtube minimo. Lo vas a ver pero tiene generos, aleatorio, para poner el fondo del disco o fotos como con radio y agregar a favoritos. Espero la disfrutes! te adoro mai!"
+  "versionCode": 9,
+  "versionName": "1.10",
+  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.10/menjunge-v9.apk",
+  "sha256": "76ee89a3c8fbcba3e07e89b12d41e2d3f7d21bb96ad133d395d32b4d93b3a2ad",
+  "notes": "Hola Mamuna! Shega otro updeit! jaja.\nBueno, bienvenida ovejita! la vas a ver al lado del reloj para activarla  y desactivarla. Modifique el modo en que se resaltan las cosas, no se si es lo mas lindo pero va digamos... jaja. En la tele, agregue la opción de, manteniendo el ok al estar viendo un canal, poder elegir el canal de audio (ingles/español) si es que el canal lo tiene, lo mismo con los subtitulos. también al eliminar un canal se borra de la lista y se va la zona \"borrados\" donde quedan todos los eliminados, asi podes o agregar a favoritos o directamente borrar los canales y te quedan los que ves de modo principal. también que al entrar un canal si salis te deje en ese canal y no al comienzo de la lista.\nen rockola cambie los archivos de servidor y agregue varias bandas, estilos y discos nuevos!\ntambién repare lo del control remoto, que con los tvbox no funcionaba bien el explorador, o con los controles que tienen mouse. \nalguna otra gilada hice pero no recuerdo bien que jaja."
 }
