@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.11/menjunge-v10.apk",
-  "sha256": "5685efce026b7563eb55dc2bd54c42be67a2c38b6646d39b54bdf2ac87ad1b8b",
-  "notes": "Bueno! Feliz sabado mamuna! jajja Pfff, llego el update! jajjaa muuuchas horas pero logre solucionar el problema, era una cuestion tecnica de un nuevo filtro de sololatino y bla bla bla, solucionado! al salir si aparecen unas paginas pero no le des bola. Tambien ya que estaba modifique un poco la lista de canales de cable, hay barra para bajar y manteniendo apretado uno podes ahora seleccionar muchos a la vez y aprentando de nuevo elegir borrar o agregar a favoritos asi, porque hacerlo de a uno era muy tedioso. bueno, eso mamuna! vamooo! te adoro."
+  "versionCode": 11,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.12/menjunge-v11.apk",
+  "sha256": "654bd06d8d45e0930b627f5041f17576402fd9c5473851bbf83360f1e3701e87",
+  "notes": "Boa tarde mamuna bella! Vamo con el update express Rockolero! y de paso sumo las cosas que modifique de los canales la otra vez:\nTV en vivo\n\nLas fuentes de un canal ya no cambian solas. Si una falla, aparece un aviso con el código del error y elegís otra con ◀ ▶.\nEl cartel con el canal y la fuente se oculta a los 4 segundos y reaparece al tocar cualquier botón del control.\nMás tolerancia a microcortes: reintentos automáticos de la misma fuente, timeouts de red más largos, más reintentos por fragmento y un colchón de video más grande.\nSi la imagen se traba, el reproductor se destraba solo: salta al punto en vivo y, si hace falta, reinicia la fuente. También reinicia apenas vuelve la conexión.\nSi falla el decodificador de video, prueba otro y, si el servidor corta la emisión, vuelve a pedirla.\n\nRockola\n\nPlaylists: agregás discos y bandas desde el menú al mantener OK o con el botón “➕ Playlist”. Las ves, reproducís y editás en “🎵 Mis playlists”.\nSe crean con nombre automático (“Musiquita Pa’ hoy”, “Musiquita Pa’ hoy 2”, …) y se borran al cerrar la app.\nAl terminar: al reproducir un disco elegís finalizar, reproducir de nuevo, o seguir con el mismo artista o el mismo género. Podés cambiarla mientras suena desde el reproductor.\nAgregar a la lista actual: si ya suena algo y elegís otra cosa, podés sumarla como siguiente sin cortar el tema actual.\nFondo “Fotos”: ahora muestra fotos de la banda que suena, buscadas en internet, y si no encuentra usa las tapas de los discos."
 }
