@@ -1,7 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.14",
-  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.14/menjunge-v12.apk",
-  "sha256": "7e40614edd0519ab7a4cfa883ceb99bd8242a1d8b6401ec5d64ccc78eb4ce5ee",
-  "notes": "Bom dia mamuna! No podía no arreglar lo que se me había mezclado, jaja. Metí estos cambios, más que todo estéticos y alguna que otra función.\n\nLo de «Ver más tarde» y que aparezca primero lo pensé desde aquella vez que hablamos de cómo los «guardados» de las plataformas no están visibles y uno nunca ve lo que alguna vez le pareció interesante, jaja. Así que ahora, al poner «Ver más tarde», te queda adelante, cosa de que cuando uno ve algo que le atrae pero no es el momento, después no se olvide ni quede en la nada. Igual, viste, ¡todo es modificable! Jajaja.\n\nLista de canales\n\nLa lista de canales se renovó: ahora es estilo cable, con número de canal, logo en baldosa, la sección debajo del nombre y «EN EL AIRE» en el canal que está sonando.\n\nHay una barra de secciones arriba (Todos · Series · Deportes · Noticias…). Elegís una y ves solo esa, sin bajar por toda la lista.\n\nFilas, chips y botones se ven bien aunque no estén seleccionados: fondo más sólido y bordes finitos.\n\nSe agregó el canal Los Simpsons.\n\nInicio\n\nEl banner de estrenos es más bajito (230 dp) y la imagen de la peli se ve completa, sin recortar.\n\nLa imagen se funde suavemente con el texto sobre un fondo desenfocado (el blur real es en Android 12 o más nuevo).\n\n🎸 Rockola\n\nReproductores más finos y elegantes: botones redondos, pastillas delicadas, barra de progreso fina y paneles de vidrio oscuro.\n\nFondo nuevo: Al azar, con las mismas fotos que la Radio. El botón 🖼 rota entre Apagado → Del artista → Al azar → Tapas.\n\n⏰ Ver más tarde\n\nEn Películas y Series, mantené OK sobre un título y elegí «Ver más tarde» (al lado de favoritos).\n\nLa fila «⏰ Ver más tarde» aparece primera, debajo de los emisores, y solo si tenés algo guardado."
+  "versionCode": 10,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.12/menjunge-v10.apk",
+  "notes": "Se mantiene la versión estable anterior."
 }
