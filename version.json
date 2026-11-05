@@ -1,6 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.12/menjunge-v10.apk",
-  "notes": "Se mantiene la versión estable anterior."
+  "versionCode": 13,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.15/menjunge-v13.apk",
+  "sha256": "11e223929644e301c5981cf79d02e6d4119b0bbdf7772f47b1f360fadc7ee6ed",
+  "notes": "Bom dia, mamuna! llego menjunJejejej jaja. Metí estos cambios, más que todo estéticos y alguna que otra función.\n\nLo de «Ver más tarde» y que aparezca primero lo pensé desde aquella vez que hablamos de cómo los «guardados» de las plataformas no están visibles y uno nunca ve lo que alguna vez le pareció interesante, jaja. Así que ahora, al poner «Ver más tarde», te queda adelante, cosa de que cuando uno ve algo que le atrae pero no es el momento, después no se olvide ni quede en la nada. Igual, viste, ¡todo es modificable! Jajaja.\nLa lista de canales se renovó: ahora es estilo cable, o algo asi, con número de canal, logo en baldosa, le agregue secciones para que sea mas fácil y reacomode la disposición para que entre todo pero no tan tosco\ntambién le cambie la estética un poco, esta mas lindo.\nSe agregó el canal Los Simpsons, es básicamente poder ver cualquier capitulo cuando uno quiere jaja.\nEl banner de estrenos en inicio es más bajito (230 dp) para que no ocupe tanto\ncambios en Rockola\nReproductores más finos y elegantes: botones redondos, pastillas delicadas, barra de progreso fina y paneles de vidrio oscuro.\nnueva función para pelis y series: Ver más tarde\nEn Películas y Series, mantené OK sobre un título y elegí «Ver más tarde» (al lado de favoritos).\nLa fila «⏰ Ver más tarde» aparece primera, debajo de los emisores, y solo si tenés algo guardado.\ntambién modifique un poco el logo como quizá se nota, el icono de la app y el nombre,  obvio! jaja. \nah! y una huevada pero las pelis en las secciones ahora cambian su orden cuando cerras y abris la app, digo, ponele, en \"clásicos\" ya no salen siempre en el mismo orden, \nse hacia muy aburrido y repetitivo ver siempre las mismas imágenes, asi que ahora básicamente cambian el orden jeje. bueno, eeeeso es todo amigos! jaja. beso gigante mai!\nque tengas hermoso jueves! <3"
 }
