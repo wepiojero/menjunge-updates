@@ -1,6 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/USUARIO/REPO/releases/download/TAG/menjunge.apk",
-  "notes": "Mejoras y correcciones."
+  "versionCode": 16,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/wepiojero/menjunge-updates/releases/download/v1.16/menjunge-v16.apk",
+  "sha256": "d04d6f41f9196cface10ffb81a32ee48770e6fd11704c77266f20cc5553cb71b",
+  "notes": "Bom tarde, mamuna! bue, espero que esta vez no tenga que volver atras la actualizacion (volvi atras 3!! jaja)  llego menjunJejejej jaja. Metí estos cambios, más que todo estéticos y alguna que otra función.\nLo de «Ver más tarde» y que aparezca primero lo pensé desde aquella vez que hablamos de cómo los «guardados» de las plataformas no están visibles y uno nunca ve lo que alguna vez le pareció interesante, jaja. Así que ahora, al poner «Ver más tarde», te queda adelante, cosa de que cuando uno ve algo que le atrae pero no es el momento, después no se olvide ni quede en la nada. Igual, viste, ¡todo es modificable! Jajaja.\nLa lista de canales se renovó: ahora es estilo cable, o algo asi, con número de canal, logo en baldosa, le agregue secciones para que sea mas fácil y reacomode la disposición para que entre todo pero no tan tosco\ntambién le cambie la estética un poco, esta mas lindo.\nSe agregó el canal Los Simpsons, es básicamente poder ver cualquier capitulo cuando uno quiere jaja.\nEl banner de estrenos en inicio es más bajito para que no ocupe tanto\ncambios en Rockola\ncambie el reproductor un poco, me gusta mas, en la prox voy a cambiar el que queda mientras uno explora rockola,  pero bue, casi nunca uno se detiene ahi.\nnueva función para pelis y series: Ver más tarde\nEn Películas y Series, mantené OK sobre un título y elegí «Ver más tarde» (al lado de favoritos).\nLa fila «⏰ Ver más tarde» aparece primera, debajo de los emisores, y solo si tenés algo guardado.\ntambién modifique un poco el logo como quizá se nota, el icono de la app y el nombre,  obvio! jaja. \nbeso gigante mai!\nque tengas hermosa tarde de jueves! <3"
 }
